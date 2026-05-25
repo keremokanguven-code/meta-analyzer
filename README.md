@@ -1,3 +1,7 @@
+# METADATA ANALYZER
+
+İnternete fotoğrafları yüklemeden önce bakmanız gereken konum, fotoğrafın çekildiği tarih, hangi cihazdan çekildi bunları gösteren bir programdır.
+
 # Kullanım Kılavuzu
 1. Adım: Terminalinizde şu komutu çalıştırarak analiz motorunu aktif edin:
 node kurulum.js
